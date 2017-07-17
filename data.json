@@ -1,0 +1,421 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 741,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ycTADgAAQBAJ",
+      "etag": "b7kW2sGAGWI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ycTADgAAQBAJ",
+      "volumeInfo": {
+        "title": "Learning React",
+        "subtitle": "Functional Web Development with React and Redux",
+        "authors": ["Alex Banks", "Eve Porcello"],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2017-04-27",
+        "description": "If you want to learn how to build efficient user interfaces with React, this is your book. Authors Alex Banks and Eve Porcello show you how to create UIs with this small JavaScript library that can deftly display data changes on large-scale, data-driven websites without page reloads. Along the way, you’ll learn how to work with functional programming and the latest ECMAScript features. Developed by Facebook, and used by companies including Netflix, Walmart, and The New York Times for large parts of their web interfaces, React is quickly growing in use. By learning how to build React components with this hands-on guide, you’ll fully understand how useful React can be in your organization. Learn key functional programming concepts with JavaScript Peek under the hood to understand how React runs in the browser Create application presentation layers by mounting and composing React components Use component trees to manage data and reduce the time you spend debugging applications Explore React’s component lifecycle and use it to load data and improve UI performance Use a routing solution for browser history, bookmarks, and other features of single-page applications Learn how to structure React applications with servers in mind",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491954591"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491954590"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 350,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ycTADgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ycTADgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ycTADgAAQBAJ&printsec=frontcover&dq=react+redux&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ycTADgAAQBAJ&dq=react+redux&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learning_React.html?hl=&id=ycTADgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ycTADgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you want to learn how to build efficient user interfaces with React, this is your book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x34avgAACAAJ",
+      "etag": "htwyQP3mMGk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x34avgAACAAJ",
+      "volumeInfo": {
+        "title": "Building React.js Applications With Redux",
+        "authors": ["David Geary"],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2017-03-17",
+        "description": "In many web applications, managing state is far too complex; creating, maintaining, modifying, and troubleshooting it takes far too much work. React and Redux now offer an easier, more elegant solution. In Building React.js Applications with Redux, leading Web frameworks expert David Geary demonstrates how to implement web apps with these technologies, making state far more reliable and less error-prone. Starting with the basics, Geary shows how to use Redux as a stand-alone state container, how to use Redux with React, and then how to implement more advanced and powerful Redux/React scenarios. Geary shows how React bindings for Redux enable you to separate stateless presentation components from components that are connected to React. You'll learn how react-redux bindings can automatically connect to the Redux store, and how they enforce good programming practice by separating concerns between containers and their associated stateless components. Geary also illustrates advanced aspects of Redux through a complex application example. The only up-to-date and comprehensive guide to React and Redux, Building React.js Applications with Redux covers all these key topics: Implementing and using action creators Creating asynchronous actions Implementing undo and redo Implementing a state timeline Encapsulating creation of actions in functions to improve code readability Combining reducers Routing, testing, and much more",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "013468138X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780134681382"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x34avgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x34avgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=x34avgAACAAJ&dq=react+redux&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=x34avgAACAAJ&dq=react+redux&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Building_React_js_Applications_With_Redu.html?hl=&id=x34avgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x34avgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Building React.js Applications with Redux, leading Web frameworks expert David Geary demonstrates how to implement web apps with these technologies, making state far more reliable and less error-prone."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A1QoDwAAQBAJ",
+      "etag": "7yHty68D3mM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A1QoDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Mastering React Native",
+        "authors": ["Eric Masiello", "Jacob Friedmann"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2017-01-11",
+        "description": "Leverage frontend development skills to build impressive iOS and Android applications with React Native About This Book Apply flexbox to get layout and build rich animations that bring your React Native application to life Integrate third-party libraries and develop customized components that run natively on iOS and Android platforms Combine React Native with Redux, Redux middleware, and a remote API to build scalable data-driven applications Who This Book Is For This book is for anyone who wants to build cross-platform native mobile applications using only JavaScript and the React Native framework. In particular, this book is especially useful for front-end developers who want to use their current skillset to build mobile applications. An existing working knowledge of JavaScript will help you get the most out of this book. What You Will Learn Implement native React Native components and APIs Explore React's JSX syntax Manage data using Redux and Redux middleware Build applications with React Native on both iOS and Android platforms Perform animations in your applications using the animation APIs Understand routing and Navigator comparison Create your own Native module In Detail React Native has completely revolutionized mobile development by empowering JavaScript developers to build world-class mobile apps that run natively on mobile platforms. This book will show you how to apply JavaScript and other front-end skills to build cross-platform React Native applications for iOS and Android using a single codebase. This book will provide you with all the React Native building blocks necessary to become an expert. We'll give you a brief explanation of the numerous native components and APIs that come bundled with React Native including Images, Views, ListViews, WebViews, and much more. You will learn to utilize form inputs in React Native. You'll get an overview of Facebook's Flux data architecture and then apply Redux to manage data with a remote API. You will also learn to animate different parts of your application, as well as routing using React Native's navigation APIs. By the end of the book, you will be able to build cutting-edge applications using the React Native framework. Style and approach This comprehensive guide will take your React Native skills to the next level. It shows you how to develop a clear workflow to build scalable applications, and how to implement the architectural concepts covered to build applications that shine in the real world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781785889790"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1785889796"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A1QoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A1QoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=A1QoDwAAQBAJ&pg=PA199&dq=react+redux&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=A1QoDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-A1QoDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 35.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 22.39,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=A1QoDwAAQBAJ&rdid=book-A1QoDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.599e7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 2.239e7,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A1QoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As we&#39;ve now seen, we can create an entire Redux application using only the <br>\nRedux package. However, most people using Redux in React applications use <br>\nthe <b>React</b>-<b>Redux</b> package as well. The <b>React</b>-<b>Redux</b> package provides both <br>\nsome&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gs_cDgAAQBAJ",
+      "etag": "RJdJwQvzZXQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gs_cDgAAQBAJ",
+      "volumeInfo": {
+        "title": "React Native Cookbook",
+        "authors": ["Stan Bershadskiy", "Crysfel Villa"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2016-12-22",
+        "description": "Take your React Native application development to the next level with this large collection of recipes About This Book Build rich and engaging user experiences in React Native while maintaining peak application performance Leverage the best of iOS and Android for React Native development while maximizing code reuse and cohesion Implement architecture patterns in your React Native application that support efficient data access, routing, and testing Who This Book Is For This book is for web developers who are familiar with React.js and know the basics of UI development. You may or may not have used React Native before, but it's ideal for you if you want to develop native applications for iOS and Android using React Native. Existing knowledge of JavaScript ES2015 is highly recommended. What You Will Learn Build simple and complex UIs using React Native Create advanced animations for UI components Build universal apps that run on phones and tablets Leverage Redux to manage application flow and data Expose both custom native UI components and application logic to React Native Integrate with existing native applications on iOS and Android Deploy your React Native application to the Google Play and Apple App Store Add automated testing to your React Native application In Detail React has taken the web development world by storm, and it is only natural that the unique architecture and its ecosystem of third-party support be applied to native application development. This book will take you through the basics of React Native development all the way through to some more advanced components. This book covers topics in React Native ranging from adding basic UI components to successfully deploying for multiple target platforms. The book follows a top-down approach beginning with building rich user interfaces. These UIs will be created with both built-in and custom components that you will create, style, and animate. You will then learn about different strategies for working with data, including leveraging the popular Redux library and optimizing the performance of the application. Then, you will step further into exposing native device functionality. Finally, we will discuss how to put your application into production and maintain its reliability. Style and approach This is a fast-paced guide with clear, concise recipes that let you discover and take advantage of the many features offered by React Native to build compelling mobile apps. This book will take your skills to the next level and equip you with the expertise to build high performing, native mobile apps in JavaScript.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786465320"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1786465329"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 536,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gs_cDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gs_cDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gs_cDgAAQBAJ&pg=PA248&dq=react+redux&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gs_cDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-gs_cDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 39.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 31.19,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gs_cDgAAQBAJ&rdid=book-gs_cDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.999e7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3.119e7,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gs_cDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In step 2, we installed the redux and <b>react</b>-<b>redux</b> libraries. The <b>react</b>-<b>redux</b> library <br>\ncontains the necessary bindings to integrate Redux with <b>React</b>. <b>Redux</b> is not <br>\nexclusively designed to work with React; in fact, we can use Redux with any other<br>\n&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_97JDAAAQBAJ",
+      "etag": "vXHW9WSWTT0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_97JDAAAQBAJ",
+      "volumeInfo": {
+        "title": "React Components",
+        "authors": ["Christopher Pitt"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2016-04-21",
+        "description": "Explore the power of React components for cutting-edge web development About This Book Learn to build better websites by creating a variety of different components in React Conceptualize the design and build maintainable web apps with the help of components A fast-paced guide to help you learn about component-based development in React Who This Book Is For This book is ideal for developers who are familiar with the basics of React and are looking for a guide to building a wide range of components as well as develop component-driven UIs. What You Will Learn How to structure an app into components Working with nested components Work with nested components Set up communication across components Style the existing components Work with Material Design as a component Render components on the server Make the best of design patterns Make the app pluggable In Detail The reader will learn how to use React and its component-based architecture in order to develop modern user interfaces. A new holistic way of thinking about UI development will establish throughout this book and the reader will discover the power of React components with many examples. After reading the book and following the example application, the reader has built a small to a mid-size application with React using a component based UI architecture. The book will take the reader through a journey to discover the benefits of component-based user interfaces over the classical MVC architecture. Throughout the book, the reader will develop a wide range of components and then bring them together to build a component-based UI. By the end of this book, readers would have learned several techniques to build powerful components and how the component-based development is beneficial over regular web development. Style and approach This book is a compact, example-driven guide that provides a step-by-step approach.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781785883729"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1785883720"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_97JDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_97JDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_97JDAAAQBAJ&pg=PA130&dq=react+redux&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_97JDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-_97JDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 17.19,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_97JDAAAQBAJ&rdid=book-_97JDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2.799e7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.719e7,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_97JDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is so common that such a Provider component comes standard with the Redux <br>\ntools. We can replace our Provider implementation with the one imported from <br>\nReactRedux: import { Provider } from &quot;<b>react</b>-<b>redux</b>&quot;; console.log( <br>\nReactDOMServer."
+      }
+    }
+  ]
+}
